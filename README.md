@@ -90,7 +90,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadmanchyjoy&theme=midnight-purple&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Shadmanchyjoy&theme=midnight-purple&show_icons=true" alt="GitHub Stats" />
   
   <br/><br/>
 
@@ -98,7 +98,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadmanchyjoy&theme=midnight-purple&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shadmanchyjoy&theme=midnight-purple&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -106,7 +106,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=midnight-purple" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=midnight-purple&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -128,12 +128,3 @@
   </a>
 
 </div>
-
-
-
-
-
-
-
-
-
