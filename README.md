@@ -69,4 +69,63 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+### 🐍 Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadmanchyjoy/Shadmanchyjoy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadmanchyjoy/Shadmanchyjoy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shadmanchyjoy/Shadmanchyjoy/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadmanchyjoy&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=Shadmanchyjoy&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadmanchyjoy&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+# 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+### ✍️ Developer Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <!-- Profile Visitor Counter -->
+  <a href="https://github.com/Shadmanchyjoy">
+    <img src="https://komarev.com/ghpvc/?username=Shadmanchyjoy&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+  </a>
+
+</div>
