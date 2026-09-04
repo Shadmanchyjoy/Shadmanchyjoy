@@ -104,11 +104,10 @@
 
 <br/>
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=flat&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadmanchyjoy&theme=react-dark" alt="Activity Graph" />
 </div>
-
 <br/>
 
 ### ✍️ Developer Quote
