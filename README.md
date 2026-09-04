@@ -1,8 +1,8 @@
 <div align="center">
+  <!-- Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Shadman%20Chowdhury%20Joy&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  # 💫 Hi, I'm Shadman Chowdhury Joy
-
-  <!-- Animated Header Banner -->
+  <!-- Animated Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vcenter=true&width=500&lines=Front-end+Dev+%26+C%2B%2B+Learner;IoT+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
   </a>
@@ -32,9 +32,23 @@
 * 💬 **Ask me about:** C++, HTML, basic Git, IoT development & Embedded Systems
 * ⚡ **Fun fact:** I turned code into a Human tracker!
 
+<br/>
+
+<!-- Developer Terminal Simulation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=A663CC&center=true&vcenter=true&width=520&lines=system.init();+loading_hardware_drivers...;C%2B%2B20+%7C+Embedded+Linux+%7C+IoT;status%3A+ready_for_collaboration" alt="Terminal Simulation" />
+</div>
+
 ---
 
 ## 💻 Tech Stack
+
+### 🔌 Embedded Systems & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=Espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220?style=for-the-badge&logo=PlatformIO&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -75,6 +89,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 ## 📊 GitHub Analytics
 
 ### 🐍 Contribution Activity
@@ -102,12 +117,6 @@
 
 </div>
 
-<br/>
-
-### 📈 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadmanchyjoy&theme=react-dark" alt="Activity Graph" />
-</div>
 <br/>
 
 ### ✍️ Developer Quote
