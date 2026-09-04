@@ -75,7 +75,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 ## 📊 GitHub Analytics
 
 ### 🐍 Contribution Activity
@@ -91,7 +90,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadmanchyjoy&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadmanchyjoy&theme=midnight-purple&show_icons=true" alt="GitHub Stats" />
   
   <br/><br/>
 
@@ -99,15 +98,15 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadmanchyjoy&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadmanchyjoy&theme=midnight-purple&layout=compact" alt="Top Languages" />
 
 </div>
 
 <br/>
 
-# 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=midnight-purple" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -129,3 +128,12 @@
   </a>
 
 </div>
+
+
+
+
+
+
+
+
+
