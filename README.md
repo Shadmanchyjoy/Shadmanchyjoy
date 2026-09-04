@@ -106,7 +106,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=midnight-purple&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadmanchyjoy&theme=flat&no-frame=true&row=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
